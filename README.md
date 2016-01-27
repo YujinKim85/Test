@@ -1,3 +1,2 @@
 # Test
-This is my first teset repository
-optional
+this is test
